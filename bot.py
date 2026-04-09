@@ -24,7 +24,7 @@ from bs4 import BeautifulSoup
 from telegram import Update, ReplyKeyboardMarkup, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes
 
-TOKEN = "8643223258:AAF2qByjhoWCUhgWqv1_zWkoaHMx6anPwXg"
+TOKEN = "8769263346:AAEzhIP9ge5cheP2PjUOtT1xQpXp4dGXQEg"
 FILE_NAME = "data.csv"
 
 last_range = {}
